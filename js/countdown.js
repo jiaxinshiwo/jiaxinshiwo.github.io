@@ -91,7 +91,7 @@
 $(document).ready(function() {
 
 	$("#countdown").countdown({
-			date: "25 March 2022 00:00:00",
+			date: "25 may 2022 00:00:00",
 			format: "on"
 		},
 
